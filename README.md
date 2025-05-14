@@ -6,7 +6,7 @@
 
 Как запустить:
 1) В команднорй строке запустить:
-   - pip install sqlite3 -
-   - pip install PyQt5 -
+   - pip install sqlite3 
+   - pip install PyQt5
 2) Скачать и распаковать архив
 3) Запустить файл programm.py
